@@ -23,7 +23,6 @@ Welcome to the EcoTrend! This project is a responsive online store showcasing a 
 - HTML5
 - CSS3
 - JavaScript
-- [Optional: Any libraries or frameworks, e.g., Bootstrap, jQuery]
 
 ## Installation
 
