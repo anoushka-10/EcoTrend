@@ -1,6 +1,0 @@
--Changes in css
--Added lines for better webview (<hr>)
-{
-    font-weight: 600;
-    text-transform: uppercase;
-}
